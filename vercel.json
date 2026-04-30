@@ -1,0 +1,24 @@
+{
+  "redirects": [
+    {
+      "source": "/fb",
+      "destination": "https://www.facebook.com/almahmud1234",
+      "permanent": false
+    },
+    {
+      "source": "/page",
+      "destination": "https://www.facebook.com/thealmahmud2",
+      "permanent": false
+    },
+    {
+      "source": "/yt",
+      "destination": "https://youtube.com/c/thealmahmud",
+      "permanent": false
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://thealmahmud.blogspot.com/$1",
+      "permanent": false
+    }
+  ]
+}
